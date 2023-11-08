@@ -1,6 +1,3 @@
-<<<<<<< HEAD
-# Java-Fundamentals
-=======
 # CodingNomads online_java_labs
 
 This project contains a variety of textbook examples and labs focused on Java fundamentals.
@@ -34,5 +31,3 @@ Install Java 8 JDK 8 (http://www.oracle.com/technetwork/java/javase/downloads/jd
 Install IntelliJ IDE Community Edition (https://www.jetbrains.com/idea/download)
 Install Git (https://git-scm.com/book/en/v2/Getting-Started-Installing-Git)
 ```
-
->>>>>>> f1ad783 (First commit - CodingNomads Online Java Labs)

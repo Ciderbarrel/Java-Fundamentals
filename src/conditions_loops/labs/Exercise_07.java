@@ -49,6 +49,7 @@ public class Exercise_07 {
             }
         }
 
+        // output
         System.out.println("The word is: " + word);
 
         if (found) {
